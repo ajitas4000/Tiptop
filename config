@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = http://web.cecs.pdx.edu/~cs533acc/tiptop.git
